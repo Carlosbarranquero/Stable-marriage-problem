@@ -1,5 +1,5 @@
 # Stable-marriage-problem
-## Author: Carlos Barranquero Díez
+## Carlos Barranquero Díez
 
 Algorithm to find a stable matching between two equally sized sets of elements given an ordering of preferences for each element
 
