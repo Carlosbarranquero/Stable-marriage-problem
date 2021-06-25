@@ -1,5 +1,6 @@
 # Stable-marriage-problem
-Author: Carlos Barranquero Díez
+# Author: Carlos Barranquero Díez
+
 Algorithm to find a stable matching between two equally sized sets of elements given an ordering of preferences for each element
 
 This is my implementation to solve the Stable Matching Problem proposed by David Gale and Lloyd Shapley. 
