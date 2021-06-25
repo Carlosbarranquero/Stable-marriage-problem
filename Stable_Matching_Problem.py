@@ -2,18 +2,6 @@
 Name: Stable Matching Problem
 Author: Carlos Barranquero Díez
 Created on Thu Jun 17 21:32:19 2021
-
-This is my implementation to solve the Stable Matching Problem proposed by David Gale and Lloyd Shapley. 
-More information on the problem statement can be found at https://en.wikipedia.org/wiki/Stable_marriage_problem.
-
-Template: 
-set_A = {"element_a1":["first_preference_set_b", "second_preference_set_b", ...],
-         "element_a2":["first_preference_set_b", "second_preference_set_b", ...],
-          ...
-
-set_B = {"element_b1":["first_preference_set_a", "second_preference_set_a", ...],
-         "element_b2":["first_preference_set_a", "second_preference_set_a", ...],
-          ...
 """
 
 
